@@ -1,7 +1,8 @@
 CIS 410 Project
 ===============
-##Experimenting with the Scriptable Render Pipeline
+## Experimenting with the Scriptable Render Pipeline
 
-###Authors
+### Authors
 [Taisei Klasen](taiseik@uoregon.edu)
+
 Halle King
